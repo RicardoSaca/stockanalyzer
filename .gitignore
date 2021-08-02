@@ -1,3 +1,4 @@
-env/
+stocks/
 __pycache__/
 .vscode/
+.DS_Store
